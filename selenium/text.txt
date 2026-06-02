@@ -1,0 +1,4 @@
+javac -cp ".;E:\selenium\selenium-java-4.44.0\*;E:\selenium\selenium-java-4.44.0\lib\*" GoogleTest.java
+
+
+java -cp ".;E:\selenium\selenium-java-4.44.0\*;E:\selenium\selenium-java-4.44.0\lib\*" GoogleTest
